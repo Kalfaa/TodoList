@@ -1,0 +1,9 @@
+c:\Users\flori\Documents\Cours\ESGI\Clean Architecture\TodoDone\DateLib\bin\Debug\netstandard2.0\DateLib.deps.json
+c:\Users\flori\Documents\Cours\ESGI\Clean Architecture\TodoDone\DateLib\bin\Debug\netstandard2.0\DateLib.dll
+c:\Users\flori\Documents\Cours\ESGI\Clean Architecture\TodoDone\DateLib\bin\Debug\netstandard2.0\DateLib.pdb
+c:\Users\flori\Documents\Cours\ESGI\Clean Architecture\TodoDone\DateLib\obj\Debug\netstandard2.0\DateLib.csprojAssemblyReference.cache
+c:\Users\flori\Documents\Cours\ESGI\Clean Architecture\TodoDone\DateLib\obj\Debug\netstandard2.0\DateLib.csproj.CoreCompileInputs.cache
+c:\Users\flori\Documents\Cours\ESGI\Clean Architecture\TodoDone\DateLib\obj\Debug\netstandard2.0\DateLib.AssemblyInfoInputs.cache
+c:\Users\flori\Documents\Cours\ESGI\Clean Architecture\TodoDone\DateLib\obj\Debug\netstandard2.0\DateLib.AssemblyInfo.cs
+c:\Users\flori\Documents\Cours\ESGI\Clean Architecture\TodoDone\DateLib\obj\Debug\netstandard2.0\DateLib.dll
+c:\Users\flori\Documents\Cours\ESGI\Clean Architecture\TodoDone\DateLib\obj\Debug\netstandard2.0\DateLib.pdb

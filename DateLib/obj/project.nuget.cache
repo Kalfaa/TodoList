@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OXGy3GkY31LgvOKGaGTKqaNjP82DZawfEx56DpDv3MTm5QvnR4XhbROtBuDPfRCRuXQHHy1ORdMTZWYhVq4Gqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\flori\\Documents\\Cours\\ESGI\\Clean Architecture\\TodoDone\\DateLib\\DateLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\flori\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\flori\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -97,3 +97,5 @@ C:\Users\flori\Documents\Cours\ESGI\Clean Architecture\TodoDone\Tests\obj\Debug\
 C:\Users\flori\Documents\Cours\ESGI\Clean Architecture\TodoDone\Tests\obj\Debug\netcoreapp3.1\Tests.dll
 C:\Users\flori\Documents\Cours\ESGI\Clean Architecture\TodoDone\Tests\obj\Debug\netcoreapp3.1\Tests.pdb
 C:\Users\flori\Documents\Cours\ESGI\Clean Architecture\TodoDone\Tests\obj\Debug\netcoreapp3.1\Tests.genruntimeconfig.cache
+c:\Users\flori\Documents\Cours\ESGI\Clean Architecture\TodoDone\Tests\bin\Debug\netcoreapp3.1\DateLib.dll
+c:\Users\flori\Documents\Cours\ESGI\Clean Architecture\TodoDone\Tests\bin\Debug\netcoreapp3.1\DateLib.pdb

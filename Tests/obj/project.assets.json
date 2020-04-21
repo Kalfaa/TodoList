@@ -911,6 +911,16 @@
         "runtime": {
           "bin/placeholder/App.dll": {}
         }
+      },
+      "DateLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/DateLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DateLib.dll": {}
+        }
       }
     }
   },
@@ -3509,11 +3519,17 @@
       "type": "project",
       "path": "../App/App.csproj",
       "msbuildProject": "../App/App.csproj"
+    },
+    "DateLib/1.0.0": {
+      "type": "project",
+      "path": "../DateLib/DateLib.csproj",
+      "msbuildProject": "../DateLib/DateLib.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "App >= 1.0.0",
+      "DateLib >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.5.0",
       "coverlet.collector >= 1.2.0",
       "xunit >= 2.4.0",
@@ -3546,6 +3562,9 @@
           "projectReferences": {
             "C:\\Users\\flori\\Documents\\Cours\\ESGI\\Clean Architecture\\TodoDone\\App\\App.csproj": {
               "projectPath": "C:\\Users\\flori\\Documents\\Cours\\ESGI\\Clean Architecture\\TodoDone\\App\\App.csproj"
+            },
+            "C:\\Users\\flori\\Documents\\Cours\\ESGI\\Clean Architecture\\TodoDone\\DateLib\\DateLib.csproj": {
+              "projectPath": "C:\\Users\\flori\\Documents\\Cours\\ESGI\\Clean Architecture\\TodoDone\\DateLib\\DateLib.csproj"
             }
           }
         }
